@@ -1,0 +1,32 @@
+_repo: Ancient-Pagan-and-Modern-Christian-SymbolismWith-an-Essay-on-Baal-Worship-On-The-Assyrian-Sac__38485
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Inman, Thomas
+    birthdate: 1820
+    deathdate: 1876
+    gutenberg_agent_id: '39242'
+    url: http://www.gutenberg.org/2009/agents/39242
+  - agent_name: Newton, John, M.R.C.S.E.
+    alias: Newton, John
+    gutenberg_agent_id: '39492'
+    url: http://www.gutenberg.org/2009/agents/39492
+description: ''
+gutenberg_issued: '2012-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Symbolism'
+- !lcc 'BL'
+- !lcsh 'Christian art and symbolism'
+title: "Ancient Pagan and Modern Christian Symbolism\r\nWith an Essay on Baal Worship,\
+  \ on the Assyrian Sacred \"Grove,\" and Other Allied Symbols"
+url: http://www.gutenberg.org/ebooks/38485
